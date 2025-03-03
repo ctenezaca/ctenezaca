@@ -1,4 +1,5 @@
-## Hi! I'm Cristina ✮ ⋆ ˚｡𖦹 ⋆｡°✩
+## Hi! •ᴗ• 
+# I'm Cristina ✮ ⋆ ˚｡𖦹 ⋆｡°✩
 
 <!--
 **ctenezaca/ctenezaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
