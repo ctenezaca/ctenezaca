@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align=center>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,vscode,idea,arduino&theme=light"/>
+</p>
