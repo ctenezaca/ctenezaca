@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=cpp,,inux&theme,java,vscode,idea,arduino,python,ros,c&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,linux&theme,java,vscode,idea,arduino,python,ros,c&theme=light"/>
 </p>
