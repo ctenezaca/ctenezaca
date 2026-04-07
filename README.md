@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning ...
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=cpp,linux,vscode,idea,python,java,arduino,ros,bash,c&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,linux,vscode,idea,python,java,arduino,ros,git,bash,c&theme=light"/>
 </p>
