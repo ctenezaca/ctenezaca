@@ -1,5 +1,4 @@
-## Hi! •ᴗ• 
-# I'm Cristina ✮ ⋆ ˚｡𖦹 ⋆｡°✩
+## Hi! I'm Cristina ✮ ⋆ ˚｡𖦹 ⋆｡°✩
 
 <!--
 **ctenezaca/ctenezaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning ...
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=cpp,linux,vscode,idea,python,java,arduino,ros,c&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,linux,vscode,idea,python,java,arduino,ros,bash,c&theme=light"/>
 </p>
